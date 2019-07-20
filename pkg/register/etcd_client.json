@@ -1,0 +1,8 @@
+{
+  "endpoints": [ "192.168.9.230:2379" ],
+  "auto-sync-interval": 0,
+  "dial-timeout": 0,
+  "username": "",
+  "password": "",
+  "reject-old-cluster": false
+}
